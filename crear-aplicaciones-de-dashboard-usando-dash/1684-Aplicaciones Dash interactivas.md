@@ -25,6 +25,12 @@ https://raw.githubusercontent.com/dphi-official/Datasets/master/intro_bees.csv
 * Código:
 * https://github.com/dphi-official/Micro-Courses/tree/master/Plotly%26Dash/Dash_Introduction
 
+<iframe width="100%" height="315"
+src="https://www.youtube.com/watch?v=hSPmj7mK6ng&t=808s"
+title="Introdccion a Dash Plotly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscceen>
+</iframe>
+
+
 ## Referencias 
 * https://www.datacamp.com/community/tutorials/learn-build-dash-python
 
