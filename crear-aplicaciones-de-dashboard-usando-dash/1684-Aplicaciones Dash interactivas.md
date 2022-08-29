@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/dphi-official/Datasets/master/intro_bees.csv
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/hSPmj7mK6ng" title="Introduction to Dash Plotly - Data Visualization in Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[La traducción del video se encuentra aqui](https://drive.google.com/file/d/1hLIwnnPOKrLvRSyIx5-36wmpxPfmyGdv/view?usp=sharing)
+[La traducción del video en español la puedes encontrar aqui](https://drive.google.com/file/d/1hLIwnnPOKrLvRSyIx5-36wmpxPfmyGdv/view?usp=sharing)
 
 ## Referencias 
 * https://www.datacamp.com/community/tutorials/learn-build-dash-python
