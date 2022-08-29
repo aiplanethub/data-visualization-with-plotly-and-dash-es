@@ -12,6 +12,7 @@ En la siguiente diapositiva, creamos un texto de entrada y lo vinculamos a una d
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_e06f662d47d34c208ecb166278269b53.png)
 
 #### La traduccion del cuadro de texto de la imagen es la siguiente
+
 ---
 @app hace que sea posible enlazar una funcion callback con my-div y el campo de entrada de HTML
 
@@ -27,9 +28,9 @@ https://raw.githubusercontent.com/dphi-official/Datasets/master/intro_bees.csv
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/hSPmj7mK6ng" title="Introduction to Dash Plotly - Data Visualization in Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+[La traducción del video ]()
 
----
+
 ## Referencias 
 * https://www.datacamp.com/community/tutorials/learn-build-dash-python
 
