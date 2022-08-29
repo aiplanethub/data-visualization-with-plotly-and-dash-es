@@ -1,7 +1,7 @@
 ## Objetivos de aprendizaje
-Interactividad
-Introducción a Dash Plotly
-Recursos adicionales
+* Interactividad
+* Introducción a Dash Plotly
+* Recursos adicionales
 
 ## Interactividad
 Ahora veamos cómo podemos hacer que nuestras aplicaciones Dash sean interactivas. Debemos importar Entrada y Salida desde dash.dependencies para hacer esto.
