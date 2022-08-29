@@ -21,6 +21,12 @@ Introducción a Dash Plotly
 En el video a continuación, crearemos una aplicación Dash para comprender qué factores están afectando a la población de abejas.
 
 Puede usar directamente el conjunto de datos desde el enlace:
+
 https://raw.githubusercontent.com/dphi-official/Datasets/master/intro_bees.csv
-Code:
+
+Código:
+
 https://github.com/dphi-official/Micro-Courses/tree/master/Plotly%26Dash/Dash_Introduction
+
+## Referencias 
+https://www.datacamp.com/community/tutorials/learn-build-dash-python
