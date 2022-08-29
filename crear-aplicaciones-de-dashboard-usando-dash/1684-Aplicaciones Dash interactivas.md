@@ -1,4 +1,4 @@
-Objetivos de aprendizaje
+## Objetivos de aprendizaje
 Interactividad
 Introducción a Dash Plotly
 Recursos adicionales
@@ -25,8 +25,11 @@ https://raw.githubusercontent.com/dphi-official/Datasets/master/intro_bees.csv
 * Código:
 * https://github.com/dphi-official/Micro-Courses/tree/master/Plotly%26Dash/Dash_Introduction
 
-<iframe width="660" height="274" src="https://www.youtube.com/embed/hSPmj7mK6ng" title="Introduction to Dash Plotly - Data Visualization in Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/hSPmj7mK6ng" title="Introduction to Dash Plotly - Data Visualization in Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+---
 ## Referencias 
 * https://www.datacamp.com/community/tutorials/learn-build-dash-python
 
